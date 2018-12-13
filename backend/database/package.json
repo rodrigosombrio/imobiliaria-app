@@ -1,0 +1,15 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Modulo de Controle com o Banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[3"
+  },
+  "author": "Sombrio",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
