@@ -2,7 +2,7 @@
   "name": "database",
   "version": "1.0.0",
   "description": "Modulo de Controle com o Banco",
-  "main": "index.js",
+  "main": "pool.js",
   "scripts": {
     "test": "\u001b[3"
   },
